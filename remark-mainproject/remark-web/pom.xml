@@ -8,4 +8,11 @@
 		<artifactId>remark-mainproject</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
+	<dependencies>
+		<dependency>
+			<groupId>cn.oxygenbar</groupId>
+			<artifactId>remark-controller</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
 </project>
