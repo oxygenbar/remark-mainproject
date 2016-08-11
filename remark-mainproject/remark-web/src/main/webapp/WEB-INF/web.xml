@@ -26,6 +26,6 @@
 
 	<error-page>
 		<error-code>404</error-code>
-		<location>/error/notfound.do</location>
+		<location>/error.jsp</location>
 	</error-page>
 </web-app>
